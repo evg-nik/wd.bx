@@ -1,0 +1,28 @@
+{
+  "name": "test--gulp.bx",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "evg <evg-nik@list.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "css-hamburgers": "^0.9.1",
+    "equalheight": "^1.0.1",
+    "font-awesome": "^4.7.0",
+    "fotorama": "^4.6.4",
+    "jQuery.mmenu": "^6.1.8",
+    "owl.carousel": "^2.2.1",
+    "selectize": "^0.12.4"
+  }
+}
